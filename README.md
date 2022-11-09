@@ -3,4 +3,4 @@ BlAck_HaT_SeO
 # git clone https://github.com/mr-r0ot/BlAck_HaT_SeO.git
 # clear
 # cd BlAck_HaT_SeO
-# python main.py
+# python Main.py
