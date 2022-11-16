@@ -41,7 +41,7 @@ def black_seo():
                 request = requests.get(url_http, proxies=proxy)
                 print("\n  New View http Ok:)   Of Your Url   with: " + str(ip))
             except:
-                print("\n\n   New View https NotOk:(   Of Your Url")
+                print("\n\n   New View http NotOk:(   Of Your Url")
             try:
                 request = requests.get(url_https, proxies=proxy)
                 print("\n  New View https Ok:)   Of Your Url   with: " + str(ip))
